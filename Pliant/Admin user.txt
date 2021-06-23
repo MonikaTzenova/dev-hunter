@@ -1,0 +1,5 @@
+админски потребител:
+username: admin
+password: pl1anTAut0m8tion
+
+ssh -L 22022:localhost:8080 sysadmin@192.168.109.146
