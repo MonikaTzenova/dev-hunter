@@ -1,0 +1,73 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "google-map-link": "typicode"
+    }
+  ],
+  "technologies": [
+    {
+      "id": 1,
+      "name": "some comment",
+      "imageUrl": "test"
+    },
+    {
+      "id": 2,
+      "name": "some comment1",
+      "imageUrl": "test1"
+    }
+  ],
+  "profiles": [
+    {
+      "id": 1,
+      "name": "some comment",
+      "email": 1,
+      "phone": "some comment",
+      "location": "some comment",
+      "technology": "some comment",
+      "price-per-hour": "some comment",
+      "years-of-experience": "some comment",
+      "native-language": "some comment",
+      "profile-picture-url": "some comment",
+      "description": "some comment",
+      "linkedin-profile-link": "some comment"
+    }
+  ],
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$p2g8zE3XjvE/NJ65KoMhAuLzSg37H/RQnPoBgaWkS8rzJmoF24UDW",
+      "id": 1
+    },
+    {
+      "email": "olivvier@mail.com",
+      "password": "$2a$10$VsGjKcfFjqgsBaLP/wzBDuCuNprXHQz5Dl2vxULNNlP92QBH9Irmq",
+      "id": 2
+    },
+    {
+      "email": "ovvier@mail.com",
+      "password": "$2a$10$EEUwLwyhgwJJ8/l9yv26LelXOjt3.7sdBkce4YdrKJIAWZr9SBZg6",
+      "username": "Olivier",
+      "id": 3
+    },
+    {
+      "email": "whil@x.com",
+      "password": "$2a$10$K8LWAk/Li47xBXRqzqzCCOU7AT4zlTiKyP3ZyUJlwgUDNJDPnvVNm",
+      "username": "1234",
+      "id": 4
+    },
+    {
+      "email": "ovvidsdcssdfsdfsder@mail.com",
+      "password": "$2a$10$7Fx3jTzj4qHBkKnkqQ75zOy5tHP6c.BiRgkMc/wDgCxJcUsy/f0Eq",
+      "username": "Olivier",
+      "id": 5
+    },
+    {
+      "email": "dcsdsfs@dsf.com",
+      "password": "$2a$10$aUQIYl6t55D2GyoJJkuZSueRDa2hJMeYA8hwamYsz1DkKF5b6b7g6",
+      "username": "com",
+      "id": 6
+    }
+  ]
+}
