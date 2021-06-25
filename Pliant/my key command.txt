@@ -1,9 +1,0 @@
-ssh -i Desktop/Pliant/dev_key.txt sysadmin@192.168.109.146 -L 22022:localhost:8080   ----> for connection with git bash
-flex$Code2019
-
-username: admin
-password: pl1anTAut0m8tion
-
-ssh -i Desktop/Pliant/dev_key.txt sysadmin@192.168.109.146 -L 22022:localhost:8080 
-
-ssh -L 22022:localhost:8080 sysadmin@192.168.109.146
